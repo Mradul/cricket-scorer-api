@@ -1,4 +1,4 @@
-package com.codimango.cricket;
+package com.mraduljain.cricket;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import io.agroal.api.AgroalDataSource;

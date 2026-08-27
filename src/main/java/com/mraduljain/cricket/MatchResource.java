@@ -1,4 +1,4 @@
-package com.codimango.cricket;
+package com.mraduljain.cricket;
 
 import jakarta.inject.Inject;
 import jakarta.ws.rs.Consumes;

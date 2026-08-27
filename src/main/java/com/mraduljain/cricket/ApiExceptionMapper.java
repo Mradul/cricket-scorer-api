@@ -1,4 +1,4 @@
-package com.codimango.cricket;
+package com.mraduljain.cricket;
 
 import jakarta.ws.rs.core.MediaType;
 import jakarta.ws.rs.core.Response;

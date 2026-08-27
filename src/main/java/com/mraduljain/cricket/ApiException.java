@@ -1,4 +1,4 @@
-package com.codimango.cricket;
+package com.mraduljain.cricket;
 
 public class ApiException extends RuntimeException {
     public final int status;
