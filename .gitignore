@@ -1,0 +1,45 @@
+### Java / Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+
+### Quarkus
+.quarkus/
+quarkus-app/
+
+### H2 file DB (local runtime files)
+*.mv.db
+*.trace.db
+*.lock.db
+/tmp/cricket.mv.db
+/tmp/cricket.trace.db
+
+### IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+.settings/
+.factorypath
+.springBeans
+.sts4-cache
+.classpath
+.project
+
+### OS
+.DS_Store
+Thumbs.db
+
+### Logs
+*.log
